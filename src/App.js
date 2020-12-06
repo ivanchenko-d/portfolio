@@ -8,7 +8,7 @@ function App() {
         I’m a JavaScript developer.
       </div>
       <div className="sub">TypeScript, Node.js, React</div>
-      <div className="contacts">Contact me on via <a href="mailto:info@ivanchenko-d.ru">email</a> or <a
+      <div className="contacts">Contact me on via <a href="mailto:79220151505@yandex.ru">email</a> or <a
         href="https://t.me/dmitriy_ivanchenko">Telegram</a>.</div>
     </div>
   );
